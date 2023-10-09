@@ -1,18 +1,22 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/ojZuXTA9)
+
 # :wave: Welcome to the first assignment in BAN400!
+
 This is the first assignment in BAN400. As you know -- given that you have come this far -- the assignments in BAN400 will be organized through Github and Github Classroom. By accepting this assignment, the repository will be copied to your Github user so that you can clone it to your own personal machine and work on it. Then, you simply commit your changes and push back to Github when you are done. You can commit and push as much as you want before the deadline. **Do not close the pull request for this repository, that is where the TAs will provide feedback for your work!**
 
-**Date:**
+**Date: 09/10/2023**
 
-**Name:**
+**Name: Jarl Ekremsvik Nartey**
 
-**Student number:**
+**Student number: s174874**
 
 ## :information_source: Problem 1
+
 Update the personal information above.
 
 ## :milky_way: Problem 2
-In this problem, we will investigate our immediate neighborhood -- more precisely, a list of galaxies within 11 megaparsecs from us. This is about 30 million light-years. The data is described  [here](http://www.sao.ru/lv/lvgdb/article/1538-3881_145_4_101.pdf), which is a follow up to [this](https://iopscience.iop.org/article/10.1086/382905) 2004 paper in the Astronomical Journal. The list, along with several characteristics of the galaxies, can be found in plain text format [here](http://www.sao.ru/lv/lvgdb/article/suites_dw_Table1.txt). This text file is also included in this repository if the link changes or dies in the future.
+
+In this problem, we will investigate our immediate neighborhood -- more precisely, a list of galaxies within 11 megaparsecs from us. This is about 30 million light-years. The data is described [here](http://www.sao.ru/lv/lvgdb/article/1538-3881_145_4_101.pdf), which is a follow up to [this](https://iopscience.iop.org/article/10.1086/382905) 2004 paper in the Astronomical Journal. The list, along with several characteristics of the galaxies, can be found in plain text format [here](http://www.sao.ru/lv/lvgdb/article/suites_dw_Table1.txt). This text file is also included in this repository if the link changes or dies in the future.
 
 **Your task is to read this data to a tidy data frame in R, without changing the raw data file and without hard coding line numbers.**
 
@@ -33,7 +37,7 @@ You can, of course, move up and down this ladder of difficulty as you see fit yo
 
 ## Problem 3
 
-The authors of the papers referenced above claim that their galaxy catalog is approximately complete because it is a *representative* sample of a particular volume in space (the ball of radius 11 megaparsecs centered on you and me). There are, however, some signs that the smaller objects are under-represented in the sample. Can you make a plot that reveals this tendency and a likely explanation?
+The authors of the papers referenced above claim that their galaxy catalog is approximately complete because it is a _representative_ sample of a particular volume in space (the ball of radius 11 megaparsecs centered on you and me). There are, however, some signs that the smaller objects are under-represented in the sample. Can you make a plot that reveals this tendency and a likely explanation?
 
 ## Problem 4 (optional)
 
